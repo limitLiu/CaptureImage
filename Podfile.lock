@@ -1,0 +1,20 @@
+PODS:
+  - OpenCV (4.3.0)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - OpenCV
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - OpenCV
+    - SnapKit
+
+SPEC CHECKSUMS:
+  OpenCV: 681e0451c1e54c5930a8922277f817ed5d5ab459
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: 4affd156ac39af90fe9c906d0a26f9058069e5ad
+
+COCOAPODS: 1.11.3
